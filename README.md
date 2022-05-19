@@ -47,6 +47,9 @@
 <a href="https://ru.stackoverflow.com/users/230052/enokin" target="_blank">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+<a href="https://codepen.io/Enokin/" target="_blank">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> 
+</a>
 <a href="https://t.me/enokin" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -55,9 +58,6 @@
 </a>
 <a href="https://www.codewars.com/users/EnokinPRO" target="_blank">
     <img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /> 
-</a>
-<a href="https://codepen.io/Enokin/" target="_blank">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> 
 </a>
 </p>
 
