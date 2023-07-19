@@ -70,12 +70,12 @@
 
 ------------
 
-<a href="https://www.codewars.com/users/EnokinPRO" target="_blank">
+<a href="https://www.codewars.com/users/Enokin" target="_blank">
     <img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /> 
 </a>
 
 <div>
-    <img src="https://www.codewars.com/users/EnokinPRO/badges/large" />
+    <img src="https://www.codewars.com/users/Enokin/badges/large" />
 </div>
 
 ------------
