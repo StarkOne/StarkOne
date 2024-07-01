@@ -66,6 +66,8 @@
 </a> 
 <div>
     <img src="https://leetcode-stats-six.vercel.app/api?username=Enokin&theme=dark" />
+    <img scr="https://leetcard.jacoblin.cool/Enokin" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/Enokin)
 </div>
 
 ------------
